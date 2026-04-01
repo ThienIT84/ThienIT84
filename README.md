@@ -49,18 +49,20 @@ I am a dedicated developer focused on the practical application of **Machine Lea
 
 ---
 
-### 📊 GitHub Statistics
+### 🐍 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThienIT84&show_icons=true&theme=radium&hide_border=true" alt="ThienIT84's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThienIT84&layout=compact&theme=radium&hide_border=true" alt="Top Languages" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThienIT84/ThienIT84/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThienIT84/ThienIT84/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThienIT84/ThienIT84/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 ### 📫 Connect with me
 - 📧 Email: thientran805954@gmail.com 
-- 💼 LinkedIn: [Your LinkedIn Link Here]
 - 📍 Location: Ho Chi Minh City, Vietnam
 
-⭐️ *Thank you for visiting my profile! Feel free to explore my repositories to see my coding journey.*
+⭐️ *Thank you for visiting my profile! Feel free to explore my repositories to see my coding journey.
