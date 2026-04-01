@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Thien (Trần Thanh Thiện)
 
 ### 👨‍💻 AI Engineer | Fullstack Developer | Final-year IT Student 
-[cite_start]I am a dedicated developer focused on the practical application of **Machine Learning** and **Deep Learning** to solve real-world technical challenges. [cite_start]I combine a strong academic foundation with hands-on experience in building scalable end-to-end applications [cite: 160-161].
+I am a dedicated developer focused on the practical application of **Machine Learning** and **Deep Learning** to solve real-world technical challenges. I combine a strong academic foundation with hands-on experience in building scalable end-to-end applications.
 
 ---
 
@@ -33,19 +33,19 @@
 ### 🌟 Featured Projects
 
 #### 🛡️ [SafeSense-VI: Vietnamese Hate Speech Detection](https://github.com/ThienIT84/vietnamese-hate-speech-dataset)
-* [cite_start]**Role:** Team Leader & AI/NLP Engineer[cite: 181].
-* [cite_start]**Key Tech:** PhoBERT, PyTorch, 18-step Preprocessing Pipeline [cite: 183-185].
-* [cite_start]**Outcome:** Achieved **0.80 F1-Macro score**; won 3rd Prize at IT Got Talent 2025[cite: 186, 165].
+* **Role:** Team Leader & AI/NLP Engineer.
+* **Key Tech:** PhoBERT, PyTorch, 18-step Preprocessing Pipeline.
+* **Outcome:** Achieved **0.80 F1-Macro score**; won 3rd Prize at IT Got Talent 2025.
 
 #### 🧠 [AI Knowledge Base: Professional RAG System](https://github.com/ThienIT84/embedding-langchain)
-* [cite_start]**Role:** Backend & AI Engineer[cite: 188].
-* [cite_start]**Key Tech:** LangChain, FastAPI, Supabase (pgvector), Gemini & Ollama[cite: 189].
-* [cite_start]**Outcome:** Architected an automated embedding pipeline for intelligent semantic search [cite: 191-192].
+* **Role:** Backend & AI Engineer.
+* **Key Tech:** LangChain, FastAPI, Supabase (pgvector), Gemini & Ollama.
+* **Outcome:** Architected an automated embedding pipeline for intelligent semantic search.
 
 #### 🏠 [Interior AI Ecosystem (In Development)](https://github.com/ThienIT84)
-* [cite_start]**Role:** Backend / Full-stack Developer[cite: 92].
-* [cite_start]**Key Tech:** SAM, Stable Diffusion, CUDA, Flutter[cite: 93, 96].
-* [cite_start]**Outcome:** Successfully optimized CV models to run within **4GB VRAM hardware constraints**.
+* **Role:** Backend / Full-stack Developer.
+* **Key Tech:** SAM, Stable Diffusion, CUDA, Flutter.
+* **Outcome:** Successfully optimized CV models to run within **4GB VRAM hardware constraints**.
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 ### 📫 Connect with me
-- [cite_start]📧 Email: thientran805954@gmail.com [cite: 155]
+- 📧 Email: thientran805954@gmail.com 
 - 💼 LinkedIn: [Your LinkedIn Link Here]
 - 📍 Location: Ho Chi Minh City, Vietnam
 
