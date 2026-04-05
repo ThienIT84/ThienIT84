@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Thien (Trần Thanh Thiện)
 
-### 👨‍💻 AI Engineer | Fullstack Developer | Final-year IT Student 
+### 👨‍💻 AI Developer | Fullstack Developer | Final-year IT Student 
 I am a dedicated developer focused on the practical application of **Machine Learning** and **Deep Learning** to solve real-world technical challenges. I combine a strong academic foundation with hands-on experience in building scalable end-to-end applications.
 
 ---
